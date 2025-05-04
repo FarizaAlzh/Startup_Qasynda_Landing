@@ -56,6 +56,14 @@ document.addEventListener("DOMContentLoaded", function () {
         "about-point4": {
             "ru": "Моментальный заработок",
             "en": "Instant Earnings"
+        },        
+        "news":{
+            "ru": "Новости",
+            "en": "News"
+        },
+        "case1":{
+            "ru": "Чемпионат по Бизнес Кейсам",
+            "en": "Business Case Championship"
         },
         "about-desc4": {
             "ru": "Выполняйте задания и сразу получайте оплату.",
